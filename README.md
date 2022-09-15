@@ -1,3 +1,3 @@
 # Poster
 
-Poster presented at [The 17th Nordic Congress of Wildlife Research 2022](https://www.nkv2022.se/). Figure in the poster is created with the [`popdensity` package](https://github.com/mskoldSU/popdensity). This repo also contains bonus material in the form of nationwide maps.
+[Poster](https://htmlpreview.github.io/?https://github.com/mskoldSU/bear_poster/blob/master/poster_nkv2022.html) presented at [The 17th Nordic Congress of Wildlife Research 2022](https://www.nkv2022.se/). Figure in the poster is created with the [`popdensity` package](https://github.com/mskoldSU/popdensity). This repo also contains bonus material in the form of [nationwide maps](https://htmlpreview.github.io/?https://github.com/mskoldSU/bear_poster/blob/master/all_counties.html).
